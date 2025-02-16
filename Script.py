@@ -4,8 +4,9 @@ class script(object):
 
     START_TXT = """<b>Hᴇʟʟᴏ {}\n\n
 ɪ ᴀᴍ ᴛʜᴇ ᴍᴏꜱᴛ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ᴄᴀᴘᴛɪᴏɴ ʙᴏᴛ ᴡɪᴛʜ ᴘʀᴇᴍɪᴜᴍ ꜰᴇᴀᴛᴜʀᴇꜱ, ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ cʜᴀɴɴᴇʟ ᴀɴᴅ ᴇɴᴊᴏʏ
+Any Doubt Then Contact Us ~ <a href='https://t.me/PRESIDENTIND7'>𝑷𝒓𝒆𝒔𝒊𝒅𝒆𝒏𝒕</a></b>
 
-‣ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://t.me/Radha_Rani_Backup'>Radhe Bot</a></b>
+‣ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://t.me/PRESIDENTIND7'>𝑷𝒓𝒆𝒔𝒊𝒅𝒆𝒏𝒕</a></b>
 """
 
     HELP_TXT = """•••[( 𝘎𝘦𝘵 𝘏𝘦𝘭𝘱 )]•••
@@ -41,9 +42,9 @@ Eg:- `/set_cap
 
     ABOUT_TXT = """<b>╔════❰ ᴀᴜᴛᴏ ᴄᴀᴘᴛɪᴏɴ ʙᴏᴛ ❱═❍⊱❁
 ║╭━━━━━━━━━━━━━━━➣
-║┣⪼📃ʙᴏᴛ : <a href='https://t.me/Radhe_Caption_Bot'>Auto Caption</a>
-║┣⪼👦Cʀᴇᴀᴛᴏʀ : <a href='https://t.me/PRESIDENTIND7'>Sɪʟɪᴄᴏɴ Dᴇᴠᴇʟᴏᴘᴇʀ ⚠️</a>
-║┣⪼🤖Uᴘᴅᴀᴛᴇ : <a href='https://t.me/Radha_Rani_Backup'>Sɪʟɪᴄᴏɴ Bᴏᴛᴢ™</a>
+║┣⪼📃ʙᴏᴛ : <a href='https://t.me/Radhe_Caption_Bot'>Radhe Caption Bot</a>
+║┣⪼👦Cʀᴇᴀᴛᴏʀ : <a href='https://t.me/PRESIDENTIND7'>𝑷𝒓𝒆𝒔𝒊𝒅𝒆𝒏𝒕 ⚠️</a>
+║┣⪼🤖Uᴘᴅᴀᴛᴇ : <a href='https://t.me/Radha_Rani_Backup'>𝑷𝒓𝒆𝒔𝒊𝒅𝒆𝒏𝒕</a>
 ║┣⪼📡Hᴏsᴛᴇᴅ ᴏɴ : ʜᴇʀᴏᴋᴜ 
 ║┣⪼🗣️Lᴀɴɢᴜᴀɢᴇ : Pʏᴛʜᴏɴ3
 ║┣⪼📚Lɪʙʀᴀʀʏ : Pʏʀᴏɢʀᴀᴍ 2.11.6
