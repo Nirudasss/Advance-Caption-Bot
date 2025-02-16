@@ -7,7 +7,7 @@ class script(object):
 Any Doubt Then Contact Us ~ <a href='https://t.me/PRESIDENTIND7'>𝑷𝒓𝒆𝒔𝒊𝒅𝒆𝒏𝒕</a></b>
 
 ‣ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://t.me/PRESIDENTIND7'>𝑷𝒓𝒆𝒔𝒊𝒅𝒆𝒏𝒕</a></b>
-"""
+
 
     HELP_TXT = """•••[( 𝘎𝘦𝘵 𝘏𝘦𝘭𝘱 )]•••
 
